@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Rajdhani|Satisfy|Shadows+Into+Light|Varela+Round&display=swap');
+body {
+  width: 550px;
+  margin: auto;
+}
+
+.square {
+  height: 130px;
+  width: 130px;
+  font-size: 50px;
+  text-align: center;
+  font-family: 'Varela Round', sans-serif;
+  background-color: pink;
+  color: blueviolet;
+
+}
+
+h1 {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+#message {
+  font-size: 20px;
+  font-family: 'Rajdhani', sans-serif;
+}
+
+#restart {
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+  font-family: 'Satisfy', cursive;
+}
